@@ -82,6 +82,7 @@ orionjs:file-attribute@1.8.0
 orionjs:filesystem@1.8.0
 orionjs:image-attribute@1.8.0
 orionjs:lang-en@1.8.0
+orionjs:pages@1.8.0
 orionjs:summernote@1.8.0
 promise@0.5.1
 random@1.0.5

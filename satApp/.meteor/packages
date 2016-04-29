@@ -35,3 +35,4 @@ orionjs:filesystem
 less
 orionjs:accounts
 summernote:standalone
+orionjs:pages
