@@ -36,3 +36,8 @@ less
 orionjs:accounts
 summernote:standalone
 orionjs:pages
+useraccounts:bootstrap
+accounts-password
+materialize:materialize
+orionjs:materialize
+nicolaslopezj:roles
